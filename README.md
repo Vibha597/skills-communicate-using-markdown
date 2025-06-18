@@ -14,3 +14,26 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+---
+
+## ✨ Vibha's Markdown Practice
+
+Hi, I'm **Vibha G**, and this section shows what I learned in this Markdown exercise. 🙌
+
+### 📝 Things I Practiced
+- `#` Headings
+- **Bold** and *Italic* text
+- [Links](https://mulearn.org)
+- Bullet lists and task lists
+- Code blocks
+- Images
+
+### ✅ My Task List
+- [x] Created GitHub Repo
+- [x] Edited README with Markdown
+- [x] Practiced formatting
+- [x] Submitted on Discord
+
+### 💻 Code Block Example
+```python
+print("Hello from Markdown!")
