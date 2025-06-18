@@ -37,3 +37,4 @@ Hi, I'm **Vibha G**, and this section shows what I learned in this Markdown exer
 ### 💻 Code Block Example
 ```python
 print("Hello from Markdown!")
+![image](https://github.com/user-attachments/assets/30d830de-4d6b-4c58-9e26-bfae1d4d845c)
